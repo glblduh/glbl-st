@@ -9,6 +9,7 @@ static char *font = "JetBrains Mono:pixelsize=13:antialias=true:autohint=true";
 static char *font2[] = {
      "IPAGothic:pixelsize=13:antialias=true:autohint=true", 
      "Symbola:pixelsize=13:antialias=true:autohint=true", 
+     "Symbols Nerd Font:pixelsize=13:antialias=true:autohint=true", 
 };
 static int borderpx = 2;
 
